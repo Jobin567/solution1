@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #cff;
+  width: 100%;
+  font-family: roboto, sans-serif;
+}
+.header {
+  top: 0;
+  width: 100%;
+  background: #2a52be;
+  height: 400px;
+}
+.title {
+  margin-left: 100px;
+  color: darkgray;
+  padding: 10px;
+}
+.register {
+  margin-top: 20px;
+  padding: 10px;
+  background: darkred;
+  margin-left: 100px;
+  color: white;
+}
+.image1 {
+  margin-bottom: 60px;
+  margin-left: 100px;
+}
+.image2 {
+  margin-top: 20px;
+  margin-left: 700px;
+}
+.title1 {
+  margin-top: 20px;
+  margin-left: 500px;
+  font-size: 20px;
+}
+.in {
+  padding: 10px;
+  margin-left: 200px;
+  height: 100px;
+}
+.in1 {
+  padding: 10px;
+  margin-left: 300px;
+  height: 100px;
+}
+.title2 {
+  font-size: 20px;
+  margin-left: 140px;
+}
+.title3 {
+  font-size: 15px;
+  margin-left: 140px;
+  max-width: 220px;
+}
+
+.box {
+  float: left;
+  width: 420px;
+  height: 200px;
+}
+.box1 {
+  float: left;
+  width: 420px;
+  height: 200px;
+}
+.box2 {
+  float: left;
+  width: 420px;
+  height: 200px;
+}
+.title4 {
+  font-size: 15px;
+  margin-left: 140px;
+}
+.post {
+  padding: 20px;
+  float: left;
+}
+.title5 {
+  font-size: 20px;
+  margin-left: 190px;
+  max-width: 200px;
+}
+.post1 {
+  padding: 20px;
+  float: left;
+}
+.register1 {
+  margin-top: 20px;
+  padding: 10px;
+  background: darkred;
+  margin-left: 600px;
+  color: white;
+}
+.fifth {
+  background: orangered;
+  width: 100%;
+  height: 200px;
+}
+.title6 {
+  margin-top: 50px;
+  margin-left: 550px;
+  font-size: 20px;
+  padding: 30px;
+}
+.title7 {
+  font-size: 15px;
+  margin-left: 170px;
+  max-width: 220px;
+}
+.register2 {
+  margin-top: 20px;
+  padding: 10px;
+  background: darkred;
+  margin-left: 200px;
+  color: white;
+}
+.two {
+  float: left;
+  padding-right: 250px;
+}
